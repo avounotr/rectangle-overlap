@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='rectangle-overlap',
-      version='0.1',
+      version='0.2',
       description='Overlapping rectangles',
       url='http://github.com/storborg/funniest',
       author='Asterios Vounotrypidis',
